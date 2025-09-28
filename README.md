@@ -16,7 +16,7 @@ Automatically generate QA test cases from requirement documents using **classica
 
 1. Clone the repository:
 
-git clone https://github.com/<your-username>/TestCaseGenerator.git
+git clone https://github.com/vikash029/TestCaseGenerator.git
 cd TestCaseGenerator
 Install dependencies:
 
